@@ -11,7 +11,9 @@
 | ---- | -------- | ---- |
 |15 hr | analyzer | Zero |
 ## Defining Our System
-    -- TBD
+    * The system will prompt user to give the input.
+    * Base on input provided and type of circuit chosen,system will analyze the circuit.
+    * After analysis the system will display output in a format in which user is interested.
 ## SWOT ANALYSIS
 ![SWOT-Sample](Link to Pic)
 
