@@ -49,6 +49,11 @@
 * The system will prompt user to give the input.
 * Base on input provided and type of circuit chosen,system will analyze the circuit.
 * After analysis the system will display output in a format in which user is interested.
+
+
+
+![Description](https://github.com/MohdHusainKhan/MiniProject/blob/main/1_Requirements/Fc.png)
+
 ## SWOT ANALYSIS
 ![Description](https://github.com/MohdHusainKhan/MiniProject/blob/main/1_Requirements/Swot_Analysis.png)
 
