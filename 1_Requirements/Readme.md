@@ -20,32 +20,35 @@
 # 4W&#39;s and 1&#39;H
 
 ## Who:
-
-**TBD**
+* The system is designed for students of Electrical/Electronics Branch
 
 ## What:
-
-**TBD**
+* The system is basic Circuit Solver.
 
 ## When:
-
-**TBD**
+* Started on April 2021
 
 ## Where:
-
-**TBD**
+* It will work on OS platforms.
 
 ## How:
-
-**TBD**
+* It will take input and will start to analyze circuit after it is completed it will give the output.
 
 # Detail requirements
 ## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+| ID | Description | Status (Implemented/Future) |
+| ---- | ----------- | --------------------------- |
+| CA01 | Basic Circuit Solver | Implemented |
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+| ID | Description | Status (Implemented/Future) |
+| ---- | ----------- | --------------------------- |
+| CA01 | Finding Equivalent R,L,C | Implemented |
+| CA02 | Start to Delta Conversion vice-versa | In progress |
+| CA03 | Analyzing Series RLC circuit | In progress |
+| CA04 | Analyzing Parallel RLC circuit | In progress |
+| CA05 | Finding Resonance frequency | In progress |
+| CA06 | Finding Power Factor of circuit | In progress |
+
  
