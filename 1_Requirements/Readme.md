@@ -1,13 +1,15 @@
 # Requirements
 ## Introduction
- --- TBD 
+ Project is based on idea of circuit analyzer.
+ It will baiscly solve problems related to basic rlc cicuit
 
 ## Research
-![Description](Link to Pic)
--- Content 
+There is no precise C program on this topic .
+Hence , I decided to to build a program which can help students to solve problems very quickly. 
 ## Cost and Features
-![Description](Link to Pic)
--- Content 
+| Time | Features | Cost |
+| ---- | -------- | ---- |
+|15 hr | analyzer | Zero |
 ## Defining Our System
     -- TBD
 ## SWOT ANALYSIS
@@ -44,3 +46,4 @@
 ##  Low level Requirements:
 --- TBD in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
+ 
