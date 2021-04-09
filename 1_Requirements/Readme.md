@@ -23,6 +23,8 @@
 * The resistor is used to reduce the peak resonant frequency.
 * Resistor increases the decay of oscillations ,which is also known as Damping.
 * RLC circuits have many applications such as oscillator circuits, radio receivers and television sets etc.
+
+
 ![Description](https://github.com/MohdHusainKhan/MiniProject/blob/main/1_Requirements/RLC.gif)
 
 ### Resonance
