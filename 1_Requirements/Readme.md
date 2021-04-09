@@ -1,19 +1,40 @@
 # Requirements
+
 ## Introduction
  * Project is based on idea of circuit analyzer.
  * It will basically solve problems related to basic RLC circuit.
 
 ## Research
+
 ### Circuit Analysis
 * A Circuit is a collection of interconnected components.
 * Circuit analysis is the process of finding the voltages across,and the currents through ,all network components.
 * In this Project we asssume components to be linear in nature.
 * There is no precise C program on this topic .
-* Hence , I decided to to build a program which can help students to solve problems very quickly. 
+* Hence , I decided to to build a program which can help students to solve problems very quickly.
+ 
 ### Equivalent Resistance
 * The equivalent Resistace is where the aggregate resisitance connected either in series or parallel is calculated.
 * Electrical resistance shows how much energy one needs when you move the charges/current through your devices.
 * The equivalent resistance of a network is that single resistor that could replace the entire network in such a way that for a certain applied voltage V you get the same current I as you were getting for a network.
+
+### RLC Circuit
+* An RLC circuit is an electrical circuit consisting of a resistor(R), an inductor(L), and a capacitor(C), connected in series or in parallel.
+* The resistor is used to reduce the peak resonant frequency.
+* Resistor increases the decay of oscillations ,which is also known as Damping.
+* RLC circuits have many applications such as oscillator circuits, radio receivers and television sets etc.
+![Description]()
+
+### Resonance
+* The resonance of a RLC circuit occurs when the inductive and capacitve reactances are equal in magnitude but cancel each other beacuase they are 180 degrees apart in phase. 
+* An ability of circuit to resonate at specific frequency known as Resonance frequency.
+* The resonance frequency is defined as the frequency at which the impedance of the circuitis purely resistive.
+
+### Star and Delta Conversion
+* Star and Delta connections are the two types of connections in a 3-phase circuits.
+* The transformation is used to establish equivalence for networks with three terminals.
+* It allows us to convert impedances connected together in a 3-phase configuration from one type of connection to another.
+
 ## Cost and Features
 | Time | Features | Cost |
 | ---- | -------- | ---- |
