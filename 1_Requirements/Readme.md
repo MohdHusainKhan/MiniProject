@@ -32,6 +32,9 @@
 * An ability of circuit to resonate at specific frequency known as Resonance frequency.
 * The resonance frequency is defined as the frequency at which the impedance of the circuitis purely resistive.
 
+
+![Description](https://github.com/MohdHusainKhan/MiniProject/blob/main/1_Requirements/star%20to%20delta.jpg)
+
 ### Star and Delta Conversion
 * Star and Delta connections are the two types of connections in a 3-phase circuits.
 * The transformation is used to establish equivalence for networks with three terminals.
