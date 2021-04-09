@@ -1,11 +1,11 @@
 # Requirements
 ## Introduction
- Project is based on idea of circuit analyzer.
- It will baiscly solve problems related to basic rlc cicuit
+ * Project is based on idea of circuit analyzer.
+ * It will baiscly solve problems related to basic RLC circuit.
 
 ## Research
-There is no precise C program on this topic .
-Hence , I decided to to build a program which can help students to solve problems very quickly. 
+* There is no precise C program on this topic .
+* Hence , I decided to to build a program which can help students to solve problems very quickly. 
 ## Cost and Features
 | Time | Features | Cost |
 | ---- | -------- | ---- |
