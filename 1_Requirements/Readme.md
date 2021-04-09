@@ -4,13 +4,13 @@
  * It will basically solve problems related to basic RLC circuit.
 
 ## Research
-# Circuit Analysis
+### Circuit Analysis
 * A Circuit is a collection of interconnected components.
 * Circuit analysis is the process of finding the voltages across,and the currents through ,all network components.
 * In this Project we asssume components to be linear in nature.
 * There is no precise C program on this topic .
 * Hence , I decided to to build a program which can help students to solve problems very quickly. 
-# Equivalent Resistance
+### Equivalent Resistance
 * The equivalent Resistace is where the aggregate resisitance connected either in series or parallel is calculated.
 * Electrical resistance shows how much energy one needs when you move the charges/current through your devices.
 * The equivalent resistance of a network is that single resistor that could replace the entire network in such a way that for a certain applied voltage V you get the same current I as you were getting for a network.
