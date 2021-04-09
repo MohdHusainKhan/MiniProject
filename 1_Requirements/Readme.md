@@ -15,7 +15,7 @@
 * Base on input provided and type of circuit chosen,system will analyze the circuit.
 * After analysis the system will display output in a format in which user is interested.
 ## SWOT ANALYSIS
-![Description](https://github.com/MohdHusainKhan/MiniProject/1_Requirements/Swot_Analysis.png)
+![Description](https://github.com/MohdHusainKhan/MiniProject/blob/main/1_Requirements/Swot_Analysis.png)
 
 # 4W&#39;s and 1&#39;H
 
