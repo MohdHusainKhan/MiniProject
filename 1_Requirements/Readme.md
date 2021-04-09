@@ -1,7 +1,7 @@
 # Requirements
 ## Introduction
  * Project is based on idea of circuit analyzer.
- * It will baiscly solve problems related to basic RLC circuit.
+ * It will basically solve problems related to basic RLC circuit.
 
 ## Research
 * There is no precise C program on this topic .
