@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: build
-      run: gcc te.c -o OUTPUT.exe
+      run: gcc te.c /3_Implementation/src/temp.c-o OUTPUT.exe
     - name: Run
       run: .\OUTPUT.exe
       
