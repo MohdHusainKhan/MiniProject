@@ -69,11 +69,10 @@
 ##  Low level Requirements:
 | ID | Description | Status (Implemented/Future) |
 | ---- | ----------- | --------------------------- |
-| CA01 | Finding Equivalent R,L,C | Implemented |
-| CA02 | Start to Delta Conversion vice-versa | In progress |
-| CA03 | Analyzing Series RLC circuit | In progress |
-| CA04 | Analyzing Parallel RLC circuit | In progress |
-| CA05 | Finding Resonance frequency | In progress |
-| CA06 | Finding Power Factor of circuit | In progress |
+| CA01 | Finding Equivalent Resistance | Implemented |
+| CA02 | Finding Equivalent Inductance | Implemented |
+| CA03 | Finding Equivalent Capacitance | Implemented |
+| CA04 | Star to Delta Conversion | Implemented |
+| CA05 | Delta to star Conversion | Implemented |
 
  
