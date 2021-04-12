@@ -8,7 +8,6 @@
 
 ### Circuit Analysis
 * A Circuit is a collection of interconnected components.
-* Circuit analysis is the process of finding the voltages across,and the currents through ,all network components.
 * In this Project we asssume components to be linear in nature.
 * There is no precise C program on this topic .
 * Hence , I decided to to build a program which can help students to solve problems very quickly.
