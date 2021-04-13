@@ -5,7 +5,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 |---------|--------------|-----------|------------------
-[![C/C++ CI](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/C-build.yml/badge.svg)](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/C-build.yml)|...|.....|.....|....
+[![C/C++ CI](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/C-build.yml/badge.svg)](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/C-build.yml)|[![Static Check](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/cppcheck.yml)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/21c5cae1b5844158b9eb3d4c80125c89)](https://app.codacy.com/gh/MohdHusainKhan/MiniProject/dashboard?branch=main=Badge_Grade) |To be added |.....|....
 
 
 
