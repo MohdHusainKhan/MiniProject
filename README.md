@@ -3,6 +3,11 @@
 
 
 
+Build | Code Quality | Unity | [Git Inspector](using github.io option)
+|---------|--------------|-----------|------------------
+[![C/C++ CI](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/C-build.yml/badge.svg)](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/C-build.yml)|...|.....|.....|....
+
+
 
 
 ## Folder Structure
