@@ -3,9 +3,9 @@
 
 
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-|---------|--------------|-----------|------------------
-[![C/C++ CI](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/C-build.yml/badge.svg)](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/C-build.yml)|[![Static Check](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/cppcheck.yml)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/21c5cae1b5844158b9eb3d4c80125c89)](https://app.codacy.com/gh/MohdHusainKhan/MiniProject/dashboard?branch=main=Badge_Grade) |To be added | [![git inspector CI](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/gitinspector.yml)
+Build | Code Quality | Unity | [Git Inspector](using github.io option)|Valgrind|
+|---------|--------------|-----------|------------------|----------------------|
+[![C/C++ CI](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/C-build.yml/badge.svg)](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/C-build.yml)|[![Static Check](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/cppcheck.yml)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/21c5cae1b5844158b9eb3d4c80125c89)](https://app.codacy.com/gh/MohdHusainKhan/MiniProject/dashboard?branch=main=Badge_Grade) |[![Unity-Check](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/unity@test.yml/badge.svg)](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/unity@test.yml)| [![git inspector CI](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/gitinspector.yml)|[![Valgrind](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/Valgrid@test.yml/badge.svg)](https://github.com/MohdHusainKhan/MiniProject/actions/workflows/Valgrid@test.yml)|
 
 
 
@@ -24,14 +24,6 @@ Folder             | Description
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
 `260072` | Mohd Husain Khan  | Feature A, B etc    | X No     | X No   |X No   |X No     
-   
-
-## Challenges Faced and How Was It Overcome
-
-1. ABC
-2. BCD
-3. ...
-4. ...
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
