@@ -1,23 +1,26 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "../inc/Star_Delta_Conversion.h"
-void Star_to_Delta_conversion(int *ptr)
+float Star_to_Delta_conversion(int *ptr)
 {
-    float sum = 0;
+    float sum = 0,a=0;
     int j = 1;
     sum = ptr[0] * ptr[1] + ptr[1] * ptr[2] + ptr[0] * ptr[2];
     for (int i = 2; i >= 0; i--)
     {
         printf("Corresponding delta value of R%d is : %f\n", j++, sum / ptr[i]);
+        a=a+(sum/ptr[i]);
     }
+    return a;
 }
-void Delta_to_Star_conversion(int *ptr)
+float Delta_to_Star_conversion(int *ptr)
 {
-    float sum = 0;
+    float sum = 0,a=0;
     sum = ptr[0] + ptr[1] + ptr[2];
     printf("Corresponding Star value of RA is :%f\n", (ptr[0] * ptr[1]) / sum);
     printf("Corresponding Star value of RB is :%f\n", (ptr[0] * ptr[2]) / sum);
     printf("Corresponding Star value of RC is :%f\n", (ptr[2] * ptr[1]) / sum);
+    a=a+((ptr[0] * ptr[1]) / sum)+((ptr[0] * ptr[2]) / sum)+((ptr[2] * ptr[1]) / sum);
 }
 
 struct Star_circuit_resistors
