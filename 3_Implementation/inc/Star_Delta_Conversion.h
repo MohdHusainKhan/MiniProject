@@ -15,13 +15,13 @@
  * 
  * @param ptr Pointer array of Resistor's.
  */
-void Star_to_Delta_conversion(int *ptr);
+float Star_to_Delta_conversion(int *ptr);
 /**
  * @brief This Function will convert Delta circuit in to Star Circuit.
  * 
  * @param ptr Pointer array of Resistor's.
  */
-void Delta_to_Star_conversion(int *ptr);
+float Delta_to_Star_conversion(int *ptr);
 /**
  * @brief This Function Will club Both the reamaining functions and will convert Star to delta and delta to star .
  * 
