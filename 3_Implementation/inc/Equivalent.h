@@ -16,42 +16,42 @@
  * @param r (pointer array of Resistor's)
  * @param t (no.of resistor's)
  */
-void Net_Series_Resistance(int *r, int t);
+int Net_Series_Resistance(int *r, int t);
 /**
  * @brief Calculate net parallel resistance
  * 
  * @param r (pointer array of Resistor's)
  * @param t (no.of resistor's)
  */
-void Net_Parallel_Resistance(int *r, int t);
+float Net_Parallel_Resistance(int *r, int t);
 /**
  * @brief Calculate net series inductance
  * 
  * @param l (pointer array of Inductor's)
  * @param t (no.of inductor's)
  */
-void Net_Series_Inductance(int *l, int t);
+int Net_Series_Inductance(int *l, int t);
 /**
  * @brief Calculate net parallel inductance
  * 
  * @param l (pointer array of Inductor's)
  * @param t (no.of inductor's)
  */
-void Net_Parallel_Inductance(int *l, int t);
+float Net_Parallel_Inductance(int *l, int t);
 /**
  * @brief Calculate net series capacitance
  * 
  * @param c (pointer array of Capacitor's)
  * @param t (no.of capacitor's)
  */
-void Net_Series_Capacitance(int *c, int t);
+float Net_Series_Capacitance(int *c, int t);
 /**
  * @brief Calculate net parallel Capacitance
  * 
  * @param c (pointer array of Capacitor's)
  * @param t (no.of capacitor's)
  */
-void Net_Parallel_Capacitance(int *c, int t);
+int Net_Parallel_Capacitance(int *c, int t);
 /**
  * @brief This Function Will club all the remaining functions and will calculate equivalent R,L,C
  * 
