@@ -23,7 +23,7 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`260072` | Mohd Husain Khan  | Feature A, B etc    | X No     | X No   |X No   |X No     
+`260072` | Mohd Husain Khan  | Feature A, B etc    | X No     | X No   | 8  | ALL  
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
