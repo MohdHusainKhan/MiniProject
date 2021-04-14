@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "../inc/Equivalent.h"
 
-void Net_Series_Resistance(int *r, int t)
+int Net_Series_Resistance(int *r, int t)
 {
     int sum = 0;
     for (int i = 0; i < t; i++)
@@ -9,9 +9,10 @@ void Net_Series_Resistance(int *r, int t)
         sum += r[i];
     }
     printf("The Net Equivalent Resistance in series is : %d ohm\n", sum);
+    return sum;
 }
 
-void Net_Parallel_Resistance(int *r, int t)
+float Net_Parallel_Resistance(int *r, int t)
 {
     float sum = 0;
     for (int i = 0; i < t; i++)
@@ -20,9 +21,10 @@ void Net_Parallel_Resistance(int *r, int t)
     }
     sum = 1.0 / sum;
     printf("The Net Equivalent Resistance in parallel is :%f ohm\n", sum);
+    return sum;
 }
 
-void Net_Series_Inductance(int *l, int t)
+int Net_Series_Inductance(int *l, int t)
 {
     int sum = 0;
     for (int i = 0; i < t; i++)
@@ -30,9 +32,10 @@ void Net_Series_Inductance(int *l, int t)
         sum += l[i];
     }
     printf("The Net Equivalent Inductance in series is : %d H\n", sum);
+    return sum;
 }
 
-void Net_Parallel_Inductance(int *l, int t)
+float Net_Parallel_Inductance(int *l, int t)
 {
     float sum = 0;
     for (int i = 0; i < t; i++)
@@ -41,9 +44,10 @@ void Net_Parallel_Inductance(int *l, int t)
     }
     sum = 1.0 / sum;
     printf("The Net Equivalent Inductance in parallel is :%f H\n", sum);
+    return sum;
 }
 
-void Net_Series_Capacitance(int *c, int t)
+float Net_Series_Capacitance(int *c, int t)
 {
     float sum = 0;
     for (int i = 0; i < t; i++)
@@ -52,9 +56,10 @@ void Net_Series_Capacitance(int *c, int t)
     }
     sum = 1.0 / sum;
     printf("The Net Equivalent Capacitance in Series is :%f F\n", sum);
+    return sum;
 }
 
-void Net_Parallel_Capacitance(int *c, int t)
+int Net_Parallel_Capacitance(int *c, int t)
 {
     int sum = 0;
     for (int i = 0; i < t; i++)
@@ -62,7 +67,9 @@ void Net_Parallel_Capacitance(int *c, int t)
         sum += c[i];
     }
     printf("The Net Equivalent Capacitance in Parallel is : %d F\n", sum);
+    return sum;
 }
+
 
 void Equivalent()
 {
