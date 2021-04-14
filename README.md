@@ -21,9 +21,9 @@ Folder             | Description
 
 ## Contributors List and Summary
 
-SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`260072` | Mohd Husain Khan  | Feature A, B etc    | X No     | X No   | 8  | ALL  
+SF Id. |  Name   | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------|----------------|---------------|-------------|--------------
+`260072` | Mohd Husain Khan  | 3    | 3  | 8  | 8  
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
