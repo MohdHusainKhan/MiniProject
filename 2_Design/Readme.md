@@ -6,5 +6,5 @@
 
 ## Low Level Design 
 ### Component Diagram :
-![ComponentDiagram]()
+![ComponentDiagram](https://github.com/MohdHusainKhan/MiniProject/blob/main/2_Design/Component%20diagram.PNG)
 
