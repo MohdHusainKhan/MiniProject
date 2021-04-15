@@ -1,7 +1,7 @@
 # Requirements
 
-## Introduction
- * Project is based on idea of circuit analyzer.
+##Introduction
+ *   Project is based on idea of circuit analyzer.
 
 ## Research
 
@@ -67,13 +67,13 @@
 *   It will take input and will start to analyze circuit after it is completed it will give the output.
 
 # Detail requirements
-## High Level Requirements
+##High Level Requirements
 | ID | Description | Status (Implemented/Future) |
 | ---- | ----------- | --------------------------- |
 | CA01 | Basic Circuit Solver | Implemented |
 
 
-##  Low level Requirements
+##Low level Requirements
 | ID | Description | Status (Implemented/Future) |
 | ---- | ----------- | --------------------------- |
 | CA01 | Finding Equivalent Resistance | Implemented |
