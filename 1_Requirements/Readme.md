@@ -24,7 +24,6 @@
 
 ![Description](https://github.com/MohdHusainKhan/MiniProject/blob/main/1_Requirements/star%20to%20delta.jpg)
 
-
 ## Cost and Features
 | Time | Features | Cost |
 | ---- | -------- | ---- |
