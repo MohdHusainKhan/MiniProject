@@ -3,6 +3,7 @@
 #include <stdio.h>
 int main()
 {
+    
     Equivalent();
     convert();
     return 0;
